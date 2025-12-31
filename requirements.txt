@@ -1,0 +1,5 @@
+opencv-python
+tkinter
+numpy
+Pillow
+ffmpeg-python
